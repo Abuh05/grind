@@ -3043,3 +3043,8 @@ img {
 .section-gap{
   margin-bottom: 0 !important;
 }
+@media (min-width: 545px) {
+  .move{
+    margin-top: 650px !important;
+  }
+}
