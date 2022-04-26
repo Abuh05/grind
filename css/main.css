@@ -1959,6 +1959,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     height: 100%;
   }
+ 
 }
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -2334,7 +2335,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-content {
   text-align: center;
-  margin-top: -200px;
+  margin-top: -400px;
 }
 .me{
 margin-right: 500px;
@@ -3062,6 +3063,11 @@ img {
 }
 @media (max-width: 500px) {
   .move{
-    margin-top: 900px !important;
+    margin-top: 800px !important;
   }
 }
+ .size {
+  height:600px !important;
+  width: 600px !important;
+ }
+
