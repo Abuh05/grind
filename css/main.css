@@ -11,6 +11,9 @@
   background-color: #000000;
   color: #fff;
 }
+.yellow{
+  background-color: yellow;
+}
 
 ::selection {
   background-color: #000000;
