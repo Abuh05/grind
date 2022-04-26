@@ -3060,7 +3060,7 @@ img {
 .section-gap{
   margin-bottom: 0 !important;
 }
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   .move{
     margin-top: 900px !important;
   }
